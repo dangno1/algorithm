@@ -1,3 +1,9 @@
+/**
+ * Recursion algorithm
+ * 
+ * @param {*} x 
+ * @returns 
+ */
 function recursion(x) {
     if(x == 0) {
         return 1;
